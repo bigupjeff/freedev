@@ -88,5 +88,5 @@ Summarise large outputs:
 './vendor/bin/phpcs --report=summary **/*.php'
 
 
-[PHP_CodeSniffer Github](https://github.com/squizlabs/PHP_CodeSniffer#installation)
+[PHP_CodeSniffer Github](https://github.com/PHPCSStandards/PHP_CodeSniffer#installation)
 [WordPress Coding Standards for PHP_CodeSniffer Github](https://github.com/WordPress/WordPress-Coding-Standards#installation)
